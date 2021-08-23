@@ -1,0 +1,9 @@
+.radioButton_selected{
+    -fx-text-fill: #1d04ff;
+    -fx-selected-color: #0233f9;
+}
+
+.radioButton_unselected{
+    -jfx-unselected-color: ffd700;
+    -fx-text-fill: 993300;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="893.0" prefWidth="1665.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="FXFile.SplashController">
+   <children>
+      <AnchorPane layoutX="90.0" layoutY="376.0" prefHeight="374.0" prefWidth="1128.0">
+         <children>
+            <ImageView fitHeight="381.0" fitWidth="350.0" pickOnBounds="true" preserveRatio="true" />
+            <AnchorPane layoutX="589.0" layoutY="145.0" prefHeight="200.0" prefWidth="200.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
